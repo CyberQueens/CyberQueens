@@ -1,5 +1,5 @@
 
-![Hacker girls logo](logo/hackergirls_logo.png?raw=true "Title")
+![Hacker girls logo](logo/hackergirls_logo.png?raw=true "HackerGirls Logo")
 
 # HackerGirls
 
