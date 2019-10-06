@@ -1,3 +1,6 @@
+
+![Hacker girls logo](logo/hackergirls_logo.png?raw=true "HackerGirls Logo")
+
 # HackerGirls
 
 HackerGirls is a program that teaches cyber, reverse engineering, and vulnerability research to high school girls in an effort to close the tech gender gap by inspring more females to explore the world of cyber security.
