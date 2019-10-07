@@ -1,9 +1,9 @@
 
-![Hacker girls logo](logo/cyberqueens_logo.png?raw=true "HackerGirls Logo")
+![Hacker girls logo](logo/cyberqueens_logo.png?raw=true "CyberQueens Logo")
 
-# HackerGirls
+# CyberQueens
 
-HackerGirls is a program that teaches cyber, reverse engineering, and vulnerability research to high school girls in an effort to close the tech gender gap by inspring more females to explore the world of cyber security.
+CyberQueens is a program that teaches cyber, reverse engineering, and vulnerability research to high school girls in an effort to close the tech gender gap by inspring more females to explore the world of cyber security.
 
 # About This Repo
 
@@ -17,4 +17,4 @@ Only exercises that were *fully* solved together in class will be uploaded. This
 
 For any questions, comments or requests feel free to contact [Guy](https://twitter.com/@va_start) via a direct message.
 
-Copyright (C) HackerGirls 2019 All Rights Reserved
+Copyright (C) CyberQueens 2019 All Rights Reserved
