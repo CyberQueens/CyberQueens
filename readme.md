@@ -18,3 +18,5 @@ Only exercises that were *fully* solved together in class will be uploaded. This
 For any questions, comments or requests feel free to contact [Guy](https://twitter.com/@va_start) via a direct message.
 
 Copyright (C) CyberQueens 2019 All Rights Reserved
+
+<meta name="google-site-verification" content="CY2rHbX0lLArgRXt5RHAel_xD6nSnhMuukTpYdtUaiE" />
