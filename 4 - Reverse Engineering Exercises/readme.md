@@ -7,11 +7,16 @@ Exercises to practice vulnerability hunting
 * Reverse engineering with IDA Pro
 * Other required resources are provided below
 
+# Links
+* [IDA Pro Install Link](https://hex-rays.com/products/ida/support/download_freeware.shtml)
+* [x86 Assembly Opcode Reference Link](https://www.felixcloutier.com/x86/)
+
 # Resources
 * [Basic IDA Pro Cheat Sheet](ida_cheetsheet.md)
 * [Common C Function Reference](common_c_function_reference.md)
 * [ASCII Table](ascii_table_reference.md)
 * [Binary Operations](binary_operations.md)
+
 
 # Exercises
 
