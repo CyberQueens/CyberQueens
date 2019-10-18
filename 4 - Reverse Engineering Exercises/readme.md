@@ -7,7 +7,11 @@ Exercises to practice vulnerability hunting
 * Reverse engineering with IDA Pro
 * Other required resources are provided below
 
-#<insert resources here>
+# Resources
+* [Basic IDA Pro Cheat Sheet](ida_cheetsheet.md)
+* [Common C Function Reference](common_c_function_reference.md)
+* [ASCII Table](ascii_table_reference.md)
+* [Binary Operations](binary_operations.md)
 
 # Exercises
 
