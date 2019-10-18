@@ -7,7 +7,7 @@ Binary operations are used to manipulate 1's and 0's
 The _Binary AND_ (written as &) is very similar to the _Logical AND_ (written as &&). 
 The difference is, instead of operating on two boolean values, the _Binary AND_ operates on 2 bits (a bit is either 1 or 0).
 
-Here is the table describing all the outcome of the Binary AND operator
+Here is the table describing the outcomes of the Binary AND operator
 
 It helps to identify: 1 = True, 0 = False
 
@@ -72,7 +72,7 @@ If for example we want to apply the Binary AND to the numbers 107 and 166:
 The _Binary OR_ (written as |) is very similar to the _Logical OR_ (written as ||). 
 The difference is, instead of operating on two boolean values, the _Binary OR_ operates on 2 bits (a bit is either 1 or 0).
 
-Here is the table describing all the outcome of the Binary OR operator
+Here is the table describing the outcomes of the Binary OR operator
 
 It helps to identify: 1 = True, 0 = False
 
@@ -137,7 +137,7 @@ If for example we want to apply the Binary OR to the numbers 107 OR 166:
 The _Binary XOR_ is written as ^. There is no simple logical equivalent like in other binary operations.
 XOR is short for "Exclusive OR". Meaning, we're only looking for ONE of the bits to be 1 - but not both.
 
-Here is the table describing all the outcome of the Binary XOR operatXOR
+Here is the table describing the outcomes of the Binary XOR operator
 
 It helps to identify: 1 = True, 0 = False
 
