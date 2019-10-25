@@ -29,4 +29,10 @@ To open different windows such as the strings window - click ‘view’ → ‘o
 ## Conversions
 
 To change numbers from hex to decimal or decimal to hex - click on the number and then hit ‘h’ 
+
 To change numbers to letters or letters to numbers - click on the number/letter and then hit 'r'
+
+
+
+
+Copyright (C) CyberQueens 2019 All Rights Reserved
