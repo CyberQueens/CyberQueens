@@ -2,7 +2,7 @@
 
 ## Navigation
 
-To enter a function - click on it
+To enter a function - double click on its name
 
 To see where a variable, function, or strings is used - hit ‘x’, then double click on one of the entries in the window
 
