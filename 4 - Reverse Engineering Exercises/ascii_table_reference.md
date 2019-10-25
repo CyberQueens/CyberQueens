@@ -1,12 +1,6 @@
 # ASCII Table
 
 ```
-Dec  = Decimal Value
-Char = Character
-
-'5' has the int value 53
-if we write '5'-'0' it evaluates to 53-48, or the int 5
-if we write char c = 'B'+32; then c stores 'b'
 
 Dec Hex    Dec Hex    Dec Hex  Dec Hex  Dec Hex  Dec Hex   Dec Hex   Dec Hex
   0 00 NUL  16 10 DLE  32 20    48 30 0  64 40 @  80 50 P   96 60 `  112 70 p
@@ -25,4 +19,9 @@ Dec Hex    Dec Hex    Dec Hex  Dec Hex  Dec Hex  Dec Hex   Dec Hex   Dec Hex
  13 0D CR   29 1D GS   45 2D -  61 3D =  77 4D M  93 5D ]  109 6D m  125 7D }
  14 0E SO   30 1E RS   46 2E .  62 3E >  78 4E N  94 5E ^  110 6E n  126 7E ~
  15 0F SI   31 1F US   47 2F /  63 3F ?  79 4F O  95 5F _  111 6F o  127 7F DEL
+
+'5' has the int value 53
+if we write '5'-'0' it evaluates to 53-48, or the int 5
+if we write char c = 'B'+32; then c stores 'b'
+
 ```
