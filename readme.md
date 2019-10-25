@@ -3,7 +3,7 @@
 
 # CyberQueens
 
-CyberQueens is a program that teaches cyber, reverse engineering, and vulnerability research to high school girls in an effort to close the tech gender gap by inspring more females to explore the world of cyber security. Because [by increasing diversity we are more innovative and get better results](http://cacm.acm.org/magazines/2014/11/179827-the-data-on-diversity/fulltext).
+CyberQueens is a program that teaches cyber, reverse engineering, and vulnerability research to high school girls in an effort to close the tech gender gap by inspring more females to explore the world of cyber security. 
 
 # About This Repo
 
