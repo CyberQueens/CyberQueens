@@ -1,5 +1,10 @@
+
+![Opening Slide](lesson_4_opening_slide.png?raw=true "Lesson 4 opening slide")
+
 # Reverse Engineering Exercises
 Exercises to practice vulnerability hunting
+
+Lesson slide show available [here](https://docs.google.com/presentation/d/1nwxMGx8C7t9ATJ_syGmq6ZE86y2PtX6RpPpreSfBT28/edit?usp=sharing)
 
 ###### Author: Guy Levin
 
@@ -19,6 +24,8 @@ Exercises to practice vulnerability hunting
 
 
 # Exercises
+
+![Today's exercise](today's_exercise.png?raw=true "Today's exercise")
 
 ### Magic* (Increasing difficulty)
 
