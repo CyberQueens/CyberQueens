@@ -7,7 +7,7 @@ CyberQueens is a program that teaches cyber, reverse engineering, and vulnerabil
 
 # About This Repo
 
-This GitHub repo is where students can find lesson materials, exercises, and links to other resources. The PowerPoint slides and code written in lessons won't be uploaded but are available upon request.
+This GitHub repo is where students can find lesson materials, exercises, and links to other resources. Not all PowerPoint slides and code written in lessons will be uploaded but everything is available upon request.
 
 ## Exercise Answer Upload Policy
 
