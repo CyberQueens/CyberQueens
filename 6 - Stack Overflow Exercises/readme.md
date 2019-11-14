@@ -7,6 +7,10 @@
 
 Lesson slide show available [here](https://docs.google.com/presentation/d/1vL1_hr0ZWfof51OaPo5v88cPWQ8-lHk0POTtaw8vywY/edit?usp=sharing)
 
+# Exercises
+
+![Today's exercise](today's_exercise.png?raw=true "Today's exercise")
+
 &nbsp;
 &nbsp;
 
