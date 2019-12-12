@@ -5,11 +5,13 @@
 
 In this lesson we begin looking at a real HTTP server with a real stack overflow vulnerability that we will independently find and exploit.
 
-Modify send_http_request.py and use your browser to find a vulnerability in the HTTP server.
-
 ###### Author: Guy Levin
 
-Lesson slide show available [here](https://docs.google.com)
+Lesson slide show available [here](https://docs.google.com/presentation/d/132vL_0JehLBLHXE7sp04QygHwNFcCKiYqy-yVqrKxV0/edit?usp=sharing)
+
+## Links
+
+* [Online tool to assemble and disassemble assembly](https://defuse.ca/online-x86-assembler.htm)
 
 
 &nbsp;
