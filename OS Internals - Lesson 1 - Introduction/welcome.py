@@ -6,8 +6,8 @@ def greet(name):
 
 def main():
 	name = input("Please enter your name: ")
-	name = name
 	greet(name)
 
 if __name__ == '__main__':
 	main()
+
