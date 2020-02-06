@@ -6,7 +6,7 @@
 
 ###### Author: Guy Levin
 
-<!-- Lesson slide show available [here](https://docs.google.com/) -->
+Lesson slide show available [here](https://docs.google.com/presentation/d/18PqmEthyNX5YgYEcLr5ip0g9ezA6ZWGAVdkS8dbW5sw/edit?usp=sharing)
 
 
 &nbsp;
