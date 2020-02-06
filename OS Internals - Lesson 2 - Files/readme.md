@@ -13,15 +13,32 @@ Lesson slide show available [here](https://docs.google.com/presentation/d/18PqmE
 ## Exercises
 
 ### Hex Editor Mini Adventure
+1.	Find, make, or download a real .zip file
+2.	Open it with 010 Editor (drag & drop)
+3.	What is a .zip file's magic number?
+4.	Find, make, or download a real .docx file
+5.	What is a .docx file's magic number?
+6.	How can you explain this? (Answers will be discussed next lesson, or after everyone finishes)
+7.	Change the extension of the .docx file to .zip and try unziping it
+8.	What happened and why did this work? (Answers will be discussed next lesson, or after everyone finishes)
 
 ### SafeUserLogin.exe
-An evil criminal uses "SafeUserLogin.exe" on his computer to login to a secret criminal portal
-We need you and your operating system knowledge to hack into the program and gain access.
-Find a way to reach "WELCOME TO THE CLASSIFIED ROOM!"
-(Don't use IDA)
+An evil criminal uses "SafeUserLogin.exe" on his computer to login to a secret criminal portal &nbsp;
+We need you and your operating system knowledge to hack into the program and gain access. &nbsp;
+Find a way to reach "WELCOME TO THE CLASSIFIED ROOM!" (Don't use IDA)
 
 ### CMD Investigator
+1.	Open `cmd`
+2.	Filter ProcMon to only "Show File System Activity" and only if the "Process Name" contains "cmd"
+3.	Run `python` from the cmd
+4.	Where does cmd look for python?
+5.	Where does cmd find python?
+6.	Copy C:\Windows\System32\calc.exe and rename it to python.exe (you should now have C:\Windows\System32\python.exe)
+7.	Run `python` from the cmd again. What happens?
 
+&nbsp;
+&nbsp;
+If you finished all the exercises, play around with procmon while using other programs
 
 ###### Author: Guy Levin
 
