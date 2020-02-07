@@ -30,11 +30,12 @@ Find a way to reach "WELCOME TO THE CLASSIFIED ROOM!" (Don't use IDA)
 ### CMD Investigator
 1.	Open `cmd`
 2.	Filter ProcMon to only "Show File System Activity" and only if the "Process Name" contains "cmd"
-3.	Run `python` from the cmd
-4.	Where does cmd look for python?
-5.	Where does cmd find python?
-6.	Copy C:\Windows\System32\calc.exe and rename it to python.exe (you should now have C:\Windows\System32\python.exe)
-7.	Run `python` from the cmd again. What happens?
+3.	Run `calc` from the cmd
+4.	Where does cmd look for calc?
+5.	Where does cmd find calc?
+6.	Run `where python` to find out the location python.exe
+6.	Copy python.exe and rename it to calc.exe
+7.	Run `calc` from the cmd again. What happens? Why?
 
 &nbsp;
 &nbsp;
