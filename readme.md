@@ -5,31 +5,31 @@
 
 CyberQueens is a program that teaches cyber security, reverse engineering, and exploit development and fosters independent thinking in high school girls in an effort to close the tech gender gap by inspiring more women to explore the world of cyber security. 
 
-# Lessons
+# Subjects
 
 ## Vulnerability Research and Reverse Engineering
 
-1. Vulnerability Research Introduction: What Is A Vulnerability? [Link](https://github.com/CyberQueens/CyberQueens/tree/master/1%20-%20What%20Is%20A%20Vulnerability)
-2. Application Logic Vulnerabilities & Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/2%20-%20Logic%20Vulnerability%20Exercises)
-3. Reverse Engineering Introduction: What Is Reverse Engineering? [Link](https://github.com/CyberQueens/CyberQueens/tree/master/3%20-%20What%20Is%20Reverse%20Engineering)
-4. Hands On Reverse Engineering & Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/4%20-%20Reverse%20Engineering%20Exercises)
-5. Reverse Engineering - What Is A Stack Frame? [Link](https://github.com/CyberQueens/CyberQueens/tree/master/5%20-%20What%20Is%20A%20Stack%20Frame)
-6. Combining Reverse Engineering And Vulnerability Research: Stack Overflow Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/6%20-%20Stack%20Overflow%20Exercises)
-7. Debugging Stack Overflows And Other Vulnerabilities [Link](https://github.com/CyberQueens/CyberQueens/tree/master/7%20-%20Debugging%20A%20Vulnerability)
-8. Stack Overflow Exploit Development [Link](https://github.com/CyberQueens/CyberQueens/tree/master/8%20-%20Stack%20Overflow%20Exploit%20Development)
-9. Hands On Real World Stack Overflow Project (Part 1) [Link](https://github.com/CyberQueens/CyberQueens/tree/master/9%20-%20Real%20World%20Stack%20Overflow%20Project%20Part%201)
-10. Hands On Real World Stack Overflow Project (Part 2) [Link](https://github.com/CyberQueens/CyberQueens/tree/master/10%20-%20Real%20World%20Stack%20Overflow%20Project%20Part%202)
-11. Hands On Real World Stack Overflow Project - Writing Shellcode (Part 3) [Link](https://github.com/CyberQueens/CyberQueens/tree/master/11%20-%20Real%20World%20Stack%20Overflow%20Project%20Part%203%20-%20Shellcode)
+[ ] Vulnerability Research Introduction: What Is A Vulnerability? [Link](https://github.com/CyberQueens/CyberQueens/tree/master/1%20-%20What%20Is%20A%20Vulnerability)
+[ ] Application Logic Vulnerabilities & Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/2%20-%20Logic%20Vulnerability%20Exercises)
+[ ] Reverse Engineering Introduction: What Is Reverse Engineering? [Link](https://github.com/CyberQueens/CyberQueens/tree/master/3%20-%20What%20Is%20Reverse%20Engineering)
+[ ] Hands On Reverse Engineering & Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/4%20-%20Reverse%20Engineering%20Exercises)
+[ ] Reverse Engineering - What Is A Stack Frame? [Link](https://github.com/CyberQueens/CyberQueens/tree/master/5%20-%20What%20Is%20A%20Stack%20Frame)
+[ ] Combining Reverse Engineering And Vulnerability Research: Stack Overflow Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/6%20-%20Stack%20Overflow%20Exercises)
+[ ] Debugging Stack Overflows And Other Vulnerabilities [Link](https://github.com/CyberQueens/CyberQueens/tree/master/7%20-%20Debugging%20A%20Vulnerability)
+[ ] Stack Overflow Exploit Development [Link](https://github.com/CyberQueens/CyberQueens/tree/master/8%20-%20Stack%20Overflow%20Exploit%20Development)
+[ ] Hands On Real World Stack Overflow Project (Part 1) [Link](https://github.com/CyberQueens/CyberQueens/tree/master/9%20-%20Real%20World%20Stack%20Overflow%20Project%20Part%201)
+[ ] Hands On Real World Stack Overflow Project (Part 2) [Link](https://github.com/CyberQueens/CyberQueens/tree/master/10%20-%20Real%20World%20Stack%20Overflow%20Project%20Part%202)
+[ ] Hands On Real World Stack Overflow Project - Writing Shellcode (Part 3) [Link](https://github.com/CyberQueens/CyberQueens/tree/master/11%20-%20Real%20World%20Stack%20Overflow%20Project%20Part%203%20-%20Shellcode)
 
 ## Operating System Internals and OS Dependant Vulnerabilities
 
-1. Introduction To Operating Systems And Their Vulnerabilities [Link](https://github.com/CyberQueens/CyberQueens/tree/master/OS%20Internals%20-%20Lesson%201%20-%20Introduction)
-2. File Internals (Part 1): Introduction & Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/OS%20Internals%20-%20Lesson%202%20-%20Files)
-3. File Internals (Part 2): File Related Vulnerabilities & Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/OS%20Internals%20-%20Lesson%203%20-%20Files%20Extended)
+[ ] Introduction To Operating Systems And Their Vulnerabilities [Link](https://github.com/CyberQueens/CyberQueens/tree/master/OS%20Internals%20-%20Lesson%201%20-%20Introduction)
+[ ] File Internals (Part 1): Introduction & Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/OS%20Internals%20-%20Lesson%202%20-%20Files)
+[ ] File Internals (Part 2): File Related Vulnerabilities & Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/OS%20Internals%20-%20Lesson%203%20-%20Files%20Extended)
 
 ## Miscellaneous 
 
-* Format String Vulnerabilities: Introduction, Exploit Techniques, and Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/Extra%20-%20Format%20String%20Vulnerability)
+[ ] Format String Vulnerabilities: Introduction, Exploit Techniques, and Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/Extra%20-%20Format%20String%20Vulnerability)
 
 # Contact
 
