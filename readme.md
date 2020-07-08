@@ -3,7 +3,7 @@
 
 # CyberQueens
 
-CyberQueens is a program that teaches cyber security, reverse engineering, and exploit development and fosters independent thinking in high school girls in an effort to close the tech gender gap by inspiring more women to explore the world of cyber security. 
+CyberQueens is a program that teaches cyber security, reverse engineering, and exploit development and fosters independent thinking in female high school students in an effort to close the tech gender gap by inspiring more women to explore the world of cyber security. 
 
 # Subjects
 
