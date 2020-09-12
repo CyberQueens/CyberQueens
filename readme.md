@@ -30,10 +30,11 @@ CyberQueens is a program that teaches cyber security, reverse engineering, and e
 ## Miscellaneous 
 
 * Format String Vulnerabilities: Introduction, Exploit Techniques, and Exercises [Link](https://github.com/CyberQueens/CyberQueens/tree/master/Extra%20-%20Format%20String%20Vulnerability)
+* Guest lecture's slides and lesson materials are available upon request :)
 
 # Contact
 
-For any questions, comments or requests feel free to contact [Guy](https://twitter.com/@va_start) via a direct message.
+For any questions, comments or requests feel free to contact [Guy](https://twitter.com/@whtaguy) via a direct message.
 
 Copyright (C) CyberQueens 2020 All Rights Reserved
 
