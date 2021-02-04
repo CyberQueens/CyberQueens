@@ -1,7 +1,6 @@
 """
 Template program to send HTTP requests to HTTP servers
 
-WARNING: be sure to change 192.168.222.130 to the correct IP address
 """
 
 import socket
@@ -9,11 +8,11 @@ import struct
 
 def main():
 	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-	s.connect(("192.168.222.130", 80))
+	s.connect(("localhost", 80))
 
 	buf = (
 		b"GET /index.html HTTP/1.1\r\n" + 
-		b"Host: 192.168.222.130\r\n" + 
+		b"Host: localhost\r\n" + 
 		b"User-Agent: Python\r\n" + 
 		b"\r\n"
 	)
@@ -33,6 +32,5 @@ def main():
 	print("\ndone")
 
 if __name__ == '__main__':
-	server_address = ""
 	main()
 
